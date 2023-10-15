@@ -1,0 +1,12 @@
+D:\программы\C#\Uvelir\Uvelir\bin\Debug\Uvelir.exe.config
+D:\программы\C#\Uvelir\Uvelir\bin\Debug\Uvelir.exe
+D:\программы\C#\Uvelir\Uvelir\bin\Debug\Uvelir.pdb
+D:\программы\C#\Uvelir\Uvelir\obj\Debug\Uvelir.csprojAssemblyReference.cache
+D:\программы\C#\Uvelir\Uvelir\obj\Debug\Uvelir.Properties.Resources.resources
+D:\программы\C#\Uvelir\Uvelir\obj\Debug\Uvelir.csproj.GenerateResource.cache
+D:\программы\C#\Uvelir\Uvelir\obj\Debug\Uvelir.csproj.CoreCompileInputs.cache
+D:\программы\C#\Uvelir\Uvelir\obj\Debug\Uvelir.exe
+D:\программы\C#\Uvelir\Uvelir\obj\Debug\Uvelir.pdb
+D:\программы\C#\Uvelir\Uvelir\obj\Debug\Uvelir.lofinForm.resources
+D:\программы\C#\Uvelir\Uvelir\obj\Debug\Uvelir.RegistrationForm.resources
+D:\программы\C#\Uvelir\Uvelir\obj\Debug\Uvelir.homeForm.resources

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uvelir", "Uvelir\Uvelir.csproj", "{72B8A886-1A84-4D1D-ABE6-24C422C85ED0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72B8A886-1A84-4D1D-ABE6-24C422C85ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B8A886-1A84-4D1D-ABE6-24C422C85ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B8A886-1A84-4D1D-ABE6-24C422C85ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B8A886-1A84-4D1D-ABE6-24C422C85ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ED77B54-F7B8-4C99-B02E-1956C07FA271}
+	EndGlobalSection
+EndGlobal
